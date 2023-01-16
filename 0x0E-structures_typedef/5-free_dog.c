@@ -4,7 +4,6 @@
 /**
  * free_dog - frees the dog
  * @d: pointer to dog to free
- * Return: void
  *
  */
 
